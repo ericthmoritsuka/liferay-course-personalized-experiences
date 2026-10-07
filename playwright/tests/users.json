@@ -1,0 +1,10 @@
+{
+	"admin": {
+		"email": "admin@clarityvisionsolutions.com",
+		"password": "learn"
+	},
+	"renee": {
+		"email": "renee.salinger@irisoptical.demo",
+		"password": "learn"
+	}
+}
